@@ -1,0 +1,8 @@
+P:\prj\finalExchangeSearch\finalExchangeSearch\bin\finalExchangeSearch.dll.config
+P:\prj\finalExchangeSearch\finalExchangeSearch\bin\finalExchangeSearch.dll
+P:\prj\finalExchangeSearch\finalExchangeSearch\bin\finalExchangeSearch.pdb
+P:\prj\finalExchangeSearch\finalExchangeSearch\obj\Debug\finalExchangeSearch.csprojAssemblyReference.cache
+P:\prj\finalExchangeSearch\finalExchangeSearch\obj\Debug\finalExchangeSearch.csproj.CoreCompileInputs.cache
+P:\prj\finalExchangeSearch\finalExchangeSearch\obj\Debug\finalExchangeSearch.dll
+P:\prj\finalExchangeSearch\finalExchangeSearch\obj\Debug\finalExchangeSearch.pdb
+P:\prj\finalExchangeSearch\finalExchangeSearch\obj\Debug\finalExchangeSearch.csproj.AssemblyReference.cache
